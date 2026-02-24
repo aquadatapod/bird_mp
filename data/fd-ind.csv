@@ -1,0 +1,162 @@
+﻿Species,IUCN,Species_type,Feeding_habit,Beak_Length_Culmen,Beak_Width,Wing_Length,Mass,Habitat,Habitat_Density,Migration,Primary_Lifestyle,Mppersp
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,17.8
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,33.25
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,11.452
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,17.18
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,11.548
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,14.79
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,16.22
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,26.8144
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,19.278
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,29
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,31.401
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,18.707
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,44.666
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,35.12189
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,32.0679
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,40.0846
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,35.0261
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,32.4
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,57
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,11
+Gallus gallus,LC,Landbird,Omnivore,30.9,8.9,218.2,751.7,Forest,1,1,Terrestrial,45.82
+Larus atricilla,LC,Aquatic bird,Carnivore,44.1,5.1,298.4,307.4,Marine,3,2,Aerial,7.6
+Pelecanus occidentalis,LC,Aquatic bird,Piscivore,319.5,38.8,494.6,3427.8,Marine,3,1,Aerial,29.9
+Nannopterum auritus,LC,Aquatic bird,Piscivore,68.2,12,311.8,1806.5,Marine,3,2,Aquatic,9.6
+Thalasseus maximus,LC,Aquatic bird,Piscivore,73.7,8.4,363.7,415.3,Marine,3,3,Aerial,9.9
+Phalacrocorax sulcirostris,LC,Aquatic bird,Piscivore,51.9,8.6,248.8,995,Wetland,3,1,Aquatic,320
+Anas platyrhynchos,LC,Waterbird,Omnivore,58.5,20.8,263.4,843.4,Wetland,3,2,Aquatic,44.6
+Anas platyrhynchos,LC,Waterbird,Omnivore,58.5,20.8,263.4,843.4,Wetland,3,2,Aquatic,57.05
+Coragyps atratus,LC,Landbird,Carnivore,60,14.8,410.1,1881.7,Human modified,3,2,Terrestrial,9.37
+Coragyps atratus,LC,Landbird,Carnivore,60,14.8,410.1,1881.7,Human modified,3,2,Terrestrial,6.83
+Fulmarus glacialis,LC,Seabird,Piscivore,41.3,11.9,321.1,611.9,Marine,3,3,Aquatic,1.8
+Fulmarus glacialis,LC,Seabird,Piscivore,41.3,11.9,321.1,611.9,Marine,3,3,Aquatic,0.89
+Uria lomvia,LC,Seabird,Piscivore,49.3,8.6,206.8,964,Marine,3,3,Aquatic,0.33
+Buteo lineatus,LC,Landbird,Carnivore,33.1,11.8,319,603.7,Woodland,1,3,Aerial,24.03
+Pandion haliaetus,LC,Landbird,Piscivore,47,17.3,468.4,1483.2,Marine,3,3,Aerial,19.26
+Strix varia,LC,Landbird,Carnivore,38.8,11.2,341.2,711.5,Forest,2,1,Insessorial,6.14
+Megascops asio,LC,Landbird,Carnivore,22,6.4,168.5,180,Woodland,2,1,Insessorial,9.82
+Coragyps atratus,LC,Landbird,Carnivore,60,14.8,410.1,1881.7,Human modified,3,2,Terrestrial,9.32
+Cathartes aura,LC,Landbird,Carnivore,51.5,14.3,508.5,1518.2,Human modified,3,2,Terrestrial,17.66
+Buteo jamaicensis,LC,Landbird,Carnivore,37.6,14.4,402.8,1101.2,Woodland,2,3,Insessorial,0.16
+Accipiter cooperii,LC,Landbird,Carnivore,25.4,8.6,241.2,429.7,Woodland,2,3,Aerial,8.66
+Corvus splendens,LC,Landbird,Omnivore,49.7,13.9,258.2,292.6,Human modified,3,1,Terrestrial,2.64
+Fulmarus glacialis,LC,Seabird,Piscivore,41.3,11.9,321.1,611.9,Marine,3,3,Aquatic,10.3
+Fulmarus glacialis,LC,Seabird,Piscivore,41.3,11.9,321.1,611.9,Marine,3,3,Aquatic,7.1
+Fulmarus glacialis,LC,Seabird,Piscivore,41.3,11.9,321.1,611.9,Marine,3,3,Aquatic,13.1
+Fulmarus,LC,Seabird,Piscivore,41.3,11.9,321.1,611.9,Marine,3,3,Aquatic,1.6
+Turdus merula,LC,Landbird,Omnivore,28.5,5.3,128.4,102.7,Forest,2,1,Generalist,40.11
+Turdus philomelos,LC,Landbird,Omnivore,23.1,5,116,67.7,Forest,1,3,Generalist,21.94
+Cinclus cinclus,LC,Landbird,Insectivore,22.1,3.4,88.9,61.5,Reverine,3,1,Generalist,1.3
+Cinclus cinclus,LC,Landbird,Omnivore,22.1,3.4,88.9,61.5,Reverine,3,1,Generalist,1.7
+Cinclus cinclus,LC,Landbird,Omnivore,22.1,3.4,88.9,61.5,Reverine,3,1,Generalist,0.5
+Cinclus cinclus,LC,Landbird,Omnivore,22.1,3.4,88.9,61.5,Reverine,3,1,Generalist,0.9
+Cinclus cinclus,LC,Landbird,Omnivore,22.1,3.4,88.9,61.5,Reverine,3,1,Generalist,0.6
+Ptychoramphus aleuticus,NT,Seabird,Piscivore,24,6.6,121,184,Marine,3,3,Aquatic,5.43
+Ptychoramphus aleuticus,NT,Seabird,Piscivore,24,6.6,121,184,Marine,3,3,Aquatic,6.57
+Ptychoramphus aleuticus,NT,Seabird,Piscivore,24,6.6,121,184,Marine,3,3,Aquatic,5.38
+Pygoscelis adeliae,LC,Seabird,Piscivore,59.7,12.9,94.5,4847.7,Marine,3,2,Aquatic,0.15
+Pygoscelis antarcticus,LC,Seabird,Piscivore,61.8,14.8,100.5,4146.1,Marine,3,2,Aquatic,0.31
+Pygoscelis papua,LC,Seabird,Piscivore,64.8,12.4,126.1,5933,Marine,3,2,Aquatic,0.29
+Uria aalge,LC,Seabird,Piscivore,56.8,8.1,196.3,991.9,Marine,3,3,Aquatic,0.15
+Morus bassanus,LC,Seabird,Piscivore,98.7,24.8,485.8,2998.7,Marine,3,2,Aerial,0.3
+Fratercula arctica,VU,Seabird,Piscivore,51,8.7,163.6,593,Marine,3,3,Aquatic,0.27
+Rissa tridactyla,VU,Aquatic bird,Carnivore,44.5,5.3,301,416,Marine,3,2,Aerial,0.78
+Larus argentatus,LC,Aquatic bird,Piscivore,74,8.9,430,1091,Coastal,3,2,Generalist,0.14
+Larus ridibundus,LC,Aquatic bird,Carnivore,43.4,4,291.2,284,Wetland,3,2,Generalist,0.33
+Fulmarus glacialis,LC,Seabird,Piscivore,41.3,11.9,321.1,611.9,Marine,3,3,Aquatic,32.5
+Puffinus mauretanicus,CR,Seabird,Piscivore,45.1,7.7,242.2,497,Marine,3,2,Generalist,5
+Ardenna gravis,LC,Seabird,Piscivore,54.7,8.3,317.8,849,Marine,3,3,Aerial,8
+Tachycineta bicolor,LC,Landbird,Insectivore,10.8,3.8,115.9,21.2,Wetland,3,3,Aerial,5.2
+Tachycineta bicolor,LC,Landbird,Insectivore,10.8,3.8,115.9,21.2,Wetland,3,3,Aerial,10.4
+Tachycineta bicolor,LC,Landbird,Insectivore,10.8,3.8,115.9,21.2,Wetland,3,3,Aerial,5.6
+Tachycineta bicolor,LC,Landbird,Insectivore,10.8,3.8,115.9,21.2,Wetland,3,3,Aerial,6
+Tachycineta bicolor,LC,Landbird,Insectivore,10.8,3.8,115.9,21.2,Wetland,3,3,Aerial,5.3
+Tachycineta bicolor,LC,Landbird,Insectivore,10.8,3.8,115.9,21.2,Wetland,3,3,Aerial,7.3
+Tachycineta bicolor,LC,Landbird,Insectivore,10.8,3.8,115.9,21.2,Wetland,3,3,Aerial,2.3
+Tachycineta bicolor,LC,Landbird,Insectivore,10.8,3.8,115.9,21.2,Wetland,3,3,Aerial,8.4
+Tachycineta bicolor,LC,Landbird,Insectivore,10.8,3.8,115.9,21.2,Wetland,3,3,Aerial,2.2
+Leiothlypis peregrina,LC,Landbird,Omnivore,10.9,3.1,62.5,8.9,Forest,1,3,Insessorial,19
+Junco hyemalis,LC,Landbird,Omnivore,11.6,4.5,75.2,19.5,Forest,2,3,Generalist,13.7
+Catharus guttatus,LC,Landbird,Omnivore,18.8,3.4,89,30.1,Forest,1,3,Generalist,35.3
+Zonotrichia albicollis,LC,Landbird,Omnivore,13.6,5.1,72.8,24.4,Woodland,2,3,Terrestrial,19.3
+Seiurus aurocapilla,LC,Landbird,Insectivore,15.1,3.6,73.2,18.8,Forest,1,3,Terrestrial,10
+Anser caerulescens,LC,Waterbird,Herbivore,61.8,19.4,411.8,2636.2,Grassland,3,3,Terrestrial,0.02
+Branta canadensis,LC,Waterbird,Herbivore,50,19.9,422.9,2811.7,Grassland,3,3,Terrestrial,0.05
+Mareca americana,LC,Waterbird,Herbivore,44.9,16,253.2,754.6,Wetland,3,3,Terrestrial,0.06
+Anas platyrhynchos,LC,Waterbird,Omnivore,58.5,20.8,263.4,843.4,Wetland,3,2,Aquatic,0.07
+Anas acuta,LC,Waterbird,Omnivore,48.1,14.5,256.7,944.6,Aquatic,3,3,Aquatic,0.1
+Melanitta deglandi,LC,Aquatic bird,Carnivore,46.8,27.2,270,1800.2,Wetland,3,3,Aquatic,0.06
+Somateria mollissima,NT,Aquatic bird,Carnivore,62.1,19.1,280.2,2060.9,Marine,3,2,Aquatic,0.02
+Gavia adamsii,NT,Aquatic bird,Piscivore,104.8,10.4,371.4,4944.3,Wetland,3,3,Aquatic,0.33
+Puffinus newelli,CR,Seabird,Piscivore,42.7,7,241,350.8,Marine,3,2,Generalist,1.2
+Ardenna pacifica,LC,Seabird,Piscivore,40.9,7.9,296.8,388,Marine,3,3,Generalist,2.38
+Ardenna pacifica,LC,Seabird,Piscivore,40.9,7.9,296.8,388,Marine,3,3,Generalist,3.68
+Hydrobates monorhis,NT,Seabird,Piscivore,16.5,3,152.6,39.8,Marine,3,3,Aerial,15.2
+Hydrobates monorhis,NT,Seabird,Piscivore,16.5,3,152.6,39.8,Marine,3,3,Aerial,24.3
+Tyto alba,LC,Landbird,Carnivore,32,8.5,280.2,403.3,Human modified,3,1,Insessorial,9.428571429
+Bubo virginianus,LC,Landbird,Carnivore,44.7,17.8,371.2,1354.5,Forest,2,1,Insessorial,18.5
+Buteo lineatus,LC,Landbird,Carnivore,33.1,11.8,319,603.7,Woodland,1,3,Aerial,17
+Buteo jamaicensis,LC,Landbird,Carnivore,37.6,14.4,402.8,1101.2,Woodland,2,3,Insessorial,8.333333333
+Bulweria bulwerii,LC,Seabird,Piscivore,21.6,4.8,203.2,99,Marine,3,2,Aquatic,0.5
+Puffinus lherminieri,LC,Seabird,Piscivore,31,4.9,185.3,192.8,Marine,3,2,Aquatic,0.5
+Calonectris edwardsii,NT,Seabird,Piscivore,42.8,8.2,309,535,Marine,3,3,Aerial,1.1
+Phaethon aethereus,LC,Seabird,Piscivore,66.4,8.8,309.2,750,Marine,3,3,Aerial,1.5
+Sula leucogaster,LC,Seabird,Piscivore,100.9,20.5,388.6,1288.8,Marine,3,2,Aerial,1.5
+Clangula hyemalis,VU,Aquatic bird,Carnivore,32.1,16,215.6,871,Wetland,3,3,Aquatic,0.144
+Gavia stellata,LC,Aquatic bird,Piscivore,63.1,7.5,275.4,1486,Wetland,3,3,Aquatic,0.045
+Uria aalge,LC,Seabird,Piscivore,56.8,8.1,196.3,991.9,Marine,3,3,Aquatic,0.03
+Mergus serrator,LC,Aquatic bird,Piscivore,65,8.2,233.6,1015.2,Wetland,3,3,Aquatic,0.33
+Gavia pacifica,LC,Aquatic bird,Piscivore,71.9,8.3,291.2,2251.1,Wetland,3,3,Aquatic,0.35
+Hydrobates monorhis,NT,Seabird,Piscivore,16.5,3,152.6,39.8,Marine,3,3,Aerial,18.73
+Larus crassirostris,LC,Aquatic bird,Carnivore,58.7,6.5,364.2,561,Coastal,3,2,Aerial,0.13
+Synthliboramphus antiquus,LC,Seabird,Piscivore,23.6,5,135.5,217.7,Marine,3,3,Aquatic,0.02
+Calonectris borealis,LC,Seabird,Piscivore,55,11.3,347,535,Marine,3,3,Generalist,8.13
+Hydrobates castro,LC,Seabird,Piscivore,15.6,2.7,150.4,46.1,Marine,3,3,Aerial,5.6
+Larus michahellis,LC,Aquatic bird,Carnivore,67.6,8.6,422.8,1111.9,Coastal,3,2,Generalist,1.83
+Larus ridibundus,LC,Aquatic bird,Carnivore,43.4,4,291.2,284,Wetland,3,2,Generalist,1
+Bubulcus ibis,LC,Aquatic bird,Carnivore,63.3,8.6,244.4,366,Human modified,3,2,Terrestrial,3
+Larus michahellis,LC,Aquatic bird,Carnivore,67.6,8.6,422.8,1111.9,Coastal,3,2,Generalist,0.2667
+Larus fuscus,LC,Aquatic bird,Carnivore,62.3,7.9,412.2,762.4,Coastal,3,2,Generalist,0.4677
+Ciconia ciconia,LC,Aquatic bird,Carnivore,189.1,23.5,565.6,3445.8,Grassland,3,3,Terrestrial,1.2222
+Hydrobates pelagicus,LC,Seabird,Piscivore,13.7,2.3,119,25.2,Marine,3,3,Aerial,1.86
+Fulmarus glacialis,LC,Seabird,Piscivore,41.3,11.9,321.1,611.9,Marine,3,3,Aquatic,5.9
+Fulmarus glacialis,LC,Seabird,Piscivore,41.3,11.9,321.1,611.9,Marine,3,3,Aquatic,18.7
+Fulmarus glacialis,LC,Seabird,Piscivore,41.3,11.9,321.1,611.9,Marine,3,3,Aquatic,11.6
+Fulmarus glacialis,LC,Seabird,Piscivore,41.3,11.9,321.1,611.9,Marine,3,3,Aquatic,1.9
+Fulmarus glacialis,LC,Seabird,Piscivore,41.3,11.9,321.1,611.9,Marine,3,3,Aquatic,22
+Ardenna tenuirostris,LC,Seabird,Piscivore,37.2,6.5,262.2,559,Marine,3,3,Generalist,8.23
+Ardenna tenuirostris,LC,Seabird,Piscivore,37.2,6.5,262.2,559,Marine,3,3,Generalist,7.11
+Tachycineta bicolor,LC,Landbird,Insectivore,10.8,3.8,115.9,21.2,Wetland,3,3,Aerial,11.3
+Tachycineta bicolor,LC,Landbird,Insectivore,10.8,3.8,115.9,21.2,Wetland,3,3,Aerial,5.1
+Tachycineta bicolor,LC,Landbird,Insectivore,10.8,3.8,115.9,21.2,Wetland,3,3,Aerial,5.9
+Tachycineta bicolor,LC,Landbird,Insectivore,10.8,3.8,115.9,21.2,Wetland,3,3,Aerial,8.7
+Larus delawarensis,LC,Aquatic bird,Carnivore,48.1,6.2,366,516.3,Coastal,3,2,Terrestrial,3.7
+Ardenna pacifica,LC,Seabird,Piscivore,40.9,7.9,296.8,388,Marine,3,3,Generalist,1.1
+Ardenna pacifica,LC,Seabird,Piscivore,40.9,7.9,296.8,388,Marine,3,3,Generalist,1
+Ardenna pacifica,LC,Seabird,Piscivore,40.9,7.9,296.8,388,Marine,3,3,Generalist,1.1
+Rallus crepitans,LC,Waterbird,Carnivore,64.7,3.8,148,306,Wetland,1,2,Terrestrial,7.2
+Ammospiza maritima,LC,Landbird,Omnivore,16.3,4.2,60.6,22.2,Wetland,3,2,Terrestrial,2.7
+Buteo buteo,LC,Landbird,Carnivore,35.9,12.6,382.9,759.1,Grassland,3,2,Insessorial,17
+Milvus migrans,LC,Landbird,Carnivore,40,13,457.4,734.1,Woodland,3,3,Aerial,4
+Falco tinnunculus,LC,Landbird,Carnivore,20.8,10.6,241,183.2,Shrubland,3,3,Aerial,21
+Hierococcyx sparverioides,LC,Landbird,Carnivore,30.3,7.8,235,151,Woodland,1,3,Insessorial,11
+Bubulcus ibis,LC,Aquatic bird,Carnivore,63.3,8.6,244.4,366,Human modified,3,2,Terrestrial,10
+Turdus obscurus,LC,Landbird,Omnivore,22,4.4,119.8,62.6,Forest,1,3,Insessorial,4
+Turdus hortulorum,LC,Landbird,Carnivore,23.3,4.9,115.8,66.7,Forest,1,3,Terrestrial,2
+Pica pica,LC,Landbird,Carnivore,40.8,12.4,194.5,217.5,Human modified,3,1,Terrestrial,7
+Spilopelia chinensis,LC,Landbird,Herbivore,19.9,3.5,138.8,159,Woodland,3,1,Terrestrial,10
+Pycnonotus sinensis,LC,Landbird,Insectivore,17.9,4.4,86.7,34.2,Human modified,2,3,Insessorial,273
+Pycnonotus aurigaster,LC,Landbird,Insectivore,19.4,4.1,91.8,44.3,Shrubland,2,1,Insessorial,399
+Lanius schach,LC,Landbird,Insectivore,21.8,6.8,92.4,51.5,Shrubland,2,2,Insessorial,406
+Copsychus saularis,LC,Landbird,Insectivore,23.2,5.4,97.5,36,Woodland,1,1,Terrestrial,249
+Motacilla alba,LC,Landbird,Insectivore,16.1,3.4,87,23.9,Human modified,3,3,Terrestrial,262
+Parus major,LC,Landbird,Insectivore,11.3,4,70.9,16.3,Woodland,2,1,Insessorial,150
+Turdus mandarinus,LC,Landbird,Insectivore,30.9,5.3,146.6,102.7,Forest,2,1,Generalist,288
+Spilopelia chinensis,LC,Landbird,Grainivore,19.9,3.5,138.8,159,Woodland,3,1,Terrestrial,304
+Alcedo atthis,LC,Landbird,Piscivore,42.2,5.7,73.3,31.1,Reverine,2,1,Insessorial,191
+Numenius phaeopus,LC,Waterbird,Carnivore,92.1,6.6,233,364.6,Grassland,3,3,Terrestrial,2
+Sula sula,LC,Seabird,Piscivore,79.3,21.5,366.8,1031.1,Marine,3,2,Aerial,2
+Numenius phaeopus,LC,Waterbird,Carnivore,92.1,6.6,233,364.6,Grassland,3,3,Terrestrial,35
+Sula sula,LC,Seabird,Piscivore,79.3,21.5,366.8,1031.1,Marine,3,2,Aerial,1
+Numenius phaeopus,LC,Waterbird,Carnivore,92.1,6.6,233,364.6,Grassland,3,3,Terrestrial,10

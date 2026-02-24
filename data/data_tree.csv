@@ -1,0 +1,366 @@
+Species,Beak.Length_Culmen,Beak.Width,Wing.Length,Mass,Mppersp,Habitat,Trophic.Niche,Migration
+Gallus gallus,30.9,8.9,218.2,751.7,,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,17.8,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,33.3,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,11.5,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,17.2,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,11.5,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,14.8,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,16.2,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,26.8,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,19.3,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,29,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,31.4,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,18.7,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,44.7,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,35.1,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,32.1,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,40.1,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,35,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,32.4,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,57,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,11,Forest,Omnivore,1
+Gallus gallus,30.9,8.9,218.2,751.7,45.8,Forest,Omnivore,1
+Larus atricilla,44.1,5.1,298.4,307.4,7.6,Marine,Aquatic predator,2
+Pelecanus occidentalis,319.5,38.8,494.6,3427.8,29.9,Marine,Aquatic predator,1
+Nannopterum auritum,68.2,12,311.8,1806.5,9.6,Marine,Aquatic predator,2
+Thalasseus maximus,73.7,8.4,363.7,415.3,9.9,Marine,Aquatic predator,3
+Phalacrocorax sulcirostris,51.9,8.6,248.8,995,320,Wetland,Aquatic predator,1
+Anas platyrhynchos,58.5,20.8,263.4,843.4,44.6,Wetland,Herbivore aquatic,2
+Anas platyrhynchos,58.5,20.8,263.4,843.4,57.1,Wetland,Herbivore aquatic,2
+Coragyps atratus,60,14.8,410.1,1881.7,9.4,Human modified,Scavenger,2
+Coragyps atratus,60,14.8,410.1,1881.7,6.8,Human modified,Scavenger,2
+Fulmarus glacialis,41.3,11.9,321.1,611.9,1.8,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,0.89,Marine,Aquatic predator,3
+Uria lomvia,49.3,8.6,206.8,964,0.33,Marine,Aquatic predator,3
+Sterna hirundo,44.5,3.8,253.3,129.2,,Marine,Aquatic predator,3
+Sterna dougallii,45.3,3.6,223.8,112,,Marine,Aquatic predator,3
+Sterna dougallii,45.3,3.6,223.8,112,,Marine,Aquatic predator,3
+Ciconia ciconia,189.1,23.5,565.6,3445.8,,Grassland,Omnivore,3
+Ciconia ciconia,189.1,23.5,565.6,3445.8,,Grassland,Omnivore,3
+Buteo lineatus,33.1,11.8,319,603.7,24.03,Woodland,Vertivore,3
+Pandion haliaetus,47,17.3,468.4,1483.2,19.26,Marine,Aquatic predator,3
+Strix Varia,38.8,11.2,341.2,711.5,6.14,Forest,Vertivore,1
+Megascops asio,22,6.4,168.5,180,9.82,Woodland,Invertivore,1
+Coragyps atratus,60,14.8,410.1,1881.7,9.32,Human modified,Scavenger,2
+Cathartes aura,51.5,14.3,508.5,1518.2,17.66,Human modified,Scavenger,2
+Buteo jamaicensis,37.6,14.4,402.8,1101.2,0.16,Woodland,Vertivore,3
+Accipiter cooperii,25.4,8.6,241.2,429.7,8.66,Woodland,Vertivore,3
+Sterna hirundo,44.5,3.8,253.3,129.2,,Marine,Aquatic predator,3
+Sterna hirundo,44.5,3.8,253.3,129.2,,Marine,Aquatic predator,3
+Corvus splendens,49.7,13.9,258.2,292.6,2.64,Human modified,Omnivore,1
+Fulmarus glacialis,41.3,11.9,321.1,611.9,10.3,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,7.1,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,13.1,Marine,Aquatic predator,3
+Fulmarus,41.3,11.9,321.1,611.9,1.6,Marine,Aquatic predator,3
+Turdus merula,28.5,5.3,128.4,102.7,40.11,Forest,Omnivore,1
+Turdus philomelos,23.1,5,116,67.7,21.94,Forest,Invertivore,3
+Leucocarbo bougainvilliorum,69.7,11,292.8,2485,,Marine,Aquatic predator,1
+Leucocarbo bougainvilliorum,69.7,11,292.8,2485,,Marine,Aquatic predator,1
+Leucocarbo bougainvilliorum,69.7,11,292.8,2485,,Marine,Aquatic predator,1
+Leucocarbo bougainvilliorum,69.7,11,292.8,2485,,Marine,Aquatic predator,1
+Leucocarbo bougainvilliorum,69.7,11,292.8,2485,,Marine,Aquatic predator,1
+Leucocarbo bougainvilliorum,69.7,11,292.8,2485,,Marine,Aquatic predator,1
+Cinclus cinclus,22.1,3.4,88.9,61.5,1.3,Reverine,Aquatic predator,1
+Cinclus cinclus,22.1,3.4,88.9,61.5,1.7,Reverine,Aquatic predator,1
+Cinclus cinclus,22.1,3.4,88.9,61.5,0.5,Reverine,Aquatic predator,1
+Cinclus cinclus,22.1,3.4,88.9,61.5,0.9,Reverine,Aquatic predator,1
+Cinclus cinclus,22.1,3.4,88.9,61.5,0.6,Reverine,Aquatic predator,1
+Ptychoramphus aleuticus,24,6.6,121,184,5.43,Marine,Aquatic predator,3
+Ptychoramphus aleuticus,24,6.6,121,184,6.57,Marine,Aquatic predator,3
+Ptychoramphus aleuticus,24,6.6,121,184,5.38,Marine,Aquatic predator,3
+Pygoscelis adeliae,59.7,12.9,94.5,4847.7,0.15,Marine,Aquatic predator,2
+Pygoscelis antarcticus,61.8,14.8,100.5,4146.1,0.31,Marine,Aquatic predator,2
+Pygoscelis papua,64.8,12.4,126.1,5933,0.29,Marine,Aquatic predator,2
+Uria aalge,56.8,8.1,196.3,991.9,0.15,Marine,Aquatic predator,3
+Morus bassanus,98.7,24.8,485.8,2998.7,0.3,Marine,Aquatic predator,2
+Fratercula arctica,51,8.7,163.6,593,0.27,Marine,Aquatic predator,3
+Rissa tridactyla,44.5,5.3,301,416,0.78,Marine,Aquatic predator,2
+Larus argentatus,74,8.9,430,1091,0.14,Coastal,Aquatic predator,2
+Larus ridibundus,43.4,4,291.2,284,0.33,Wetland,Aquatic predator,2
+Fulmarus glacialis,41.3,11.9,321.1,611.9,32.5,Marine,Aquatic predator,3
+Puffinus mauretanicus,45.1,7.7,242.2,497,5,Marine,Aquatic predator,2
+Ardenna gravis,54.7,8.3,317.8,849,8,Marine,Aquatic predator,3
+Tachycineta bicolor,10.8,3.8,115.9,21.2,5.2,Wetland,Invertivore,3
+Tachycineta bicolor,10.8,3.8,115.9,21.2,10.4,Wetland,Invertivore,3
+Tachycineta bicolor,10.8,3.8,115.9,21.2,5.6,Wetland,Invertivore,3
+Tachycineta bicolor,10.8,3.8,115.9,21.2,6,Wetland,Invertivore,3
+Tachycineta bicolor,10.8,3.8,115.9,21.2,5.3,Wetland,Invertivore,3
+Tachycineta bicolor,10.8,3.8,115.9,21.2,7.3,Wetland,Invertivore,3
+Tachycineta bicolor,10.8,3.8,115.9,21.2,2.3,Wetland,Invertivore,3
+Tachycineta bicolor,10.8,3.8,115.9,21.2,8.4,Wetland,Invertivore,3
+Tachycineta bicolor,10.8,3.8,115.9,21.2,2.2,Wetland,Invertivore,3
+Leiothlypis peregrina,10.9,3.1,62.5,8.9,19,Forest,Invertivore,3
+Junco hyemalis,11.6,4.5,75.2,19.5,13.7,Forest,Granivore,3
+Catharus guttatus,18.8,3.4,89,30.1,35.3,Forest,Invertivore,3
+Zonotrichia albicollis,13.6,5.1,72.8,24.4,19.3,Woodland,Omnivore,3
+Seiurus aurocapilla,15.1,3.6,73.2,18.8,10,Forest,Invertivore,3
+Anser caerulescens,61.8,19.4,411.8,2636.2,0.02,Grassland,Herbivore aquatic,3
+Branta canadensis,50,19.9,422.9,2811.7,0.05,Grassland,Herbivore terrestrial,3
+Mareca americana,44.9,16,253.2,754.6,0.06,Wetland,Omnivore,3
+Anas platyrhynchos,58.5,20.8,263.4,843.4,0.07,Wetland,Herbivore aquatic,2
+Anas acuta,48.1,14.5,256.7,944.6,0.1,Aquatic,Herbivore aquatic,3
+Melanitta deglandi,46.8,27.2,270,1800.2,0.06,Wetland,Aquatic predator,3
+Somateria mollissima,62.1,19.1,280.2,2060.9,0.02,Marine,Aquatic predator,2
+Gavia adamsii,104.8,10.4,371.4,4944.3,0.33,Wetland,Aquatic predator,3
+Puffinus newelli,42.7,7,241,350.8,1.2,Marine,Aquatic predator,2
+Ardenna pacifica,40.9,7.9,296.8,388,2.38,Marine,Aquatic predator,3
+Ardenna pacifica,40.9,7.9,296.8,388,3.68,Marine,Aquatic predator,3
+Ardenna carneipes,47.8,8.9,310.2,609,,Marine,Aquatic predator,3
+Ardenna tenuirostris,37.2,6.5,262.2,559,,Marine,Aquatic predator,3
+Hydrobates monorhis,16.5,3,152.6,39.8,15.2,Marine,Aquatic predator,3
+Hydrobates monorhis,16.5,3,152.6,39.8,24.3,Marine,Aquatic predator,3
+Ardenna carneipes,47.8,8.9,310.2,609,,Marine,Aquatic predator,3
+Ardenna carneipes,47.8,8.9,310.2,609,,Marine,Aquatic predator,3
+Tyto alba,32,8.5,280.2,403.3,,Human modified,Vertivore,1
+Tyto alba,32,8.5,280.2,403.3,,Human modified,Vertivore,1
+Tyto alba,32,8.5,280.2,403.3,,Human modified,Vertivore,1
+Tyto alba,32,8.5,280.2,403.3,,Human modified,Vertivore,1
+Tyto alba,32,8.5,280.2,403.3,,Human modified,Vertivore,1
+Tyto alba,32,8.5,280.2,403.3,,Human modified,Vertivore,1
+Tyto alba,32,8.5,280.2,403.3,,Human modified,Vertivore,1
+Tyto alba,32,8.5,280.2,403.3,9.4,Human modified,Vertivore,1
+Bubo virginianus,44.7,17.8,371.2,1354.5,,Forest,Vertivore,1
+Bubo virginianus,44.7,17.8,371.2,1354.5,,Forest,Vertivore,1
+Bubo virginianus,44.7,17.8,371.2,1354.5,18.5,Forest,Vertivore,1
+Buteo lineatus,33.1,11.8,319,603.7,,Woodland,Vertivore,3
+Buteo lineatus,33.1,11.8,319,603.7,,Woodland,Vertivore,3
+Buteo lineatus,33.1,11.8,319,603.7,,Woodland,Vertivore,3
+Buteo lineatus,33.1,11.8,319,603.7,,Woodland,Vertivore,3
+Buteo lineatus,33.1,11.8,319,603.7,17,Woodland,Vertivore,3
+Buteo jamaicensis,37.6,14.4,402.8,1101.2,,Woodland,Vertivore,3
+Buteo jamaicensis,37.6,14.4,402.8,1101.2,,Woodland,Vertivore,3
+Buteo jamaicensis,37.6,14.4,402.8,1101.2,,Woodland,Vertivore,3
+Buteo jamaicensis,37.6,14.4,402.8,1101.2,8.3,Woodland,Vertivore,3
+Calidris pygmaea,22.9,4,99.4,31.7,,Coastal,Aquatic predator,3
+Tringa guttifer,57.4,4.8,171.2,158,,Coastal,Aquatic predator,3
+Calidris alpina,36.9,2.9,115.1,51.9,,Wetland,Aquatic predator,3
+Calidris ruficollis,19,2.4,99.5,26.8,,Grassland,Aquatic predator,3
+Charadrius alexandrinus,16.3,3.1,106.2,42.3,,Coastal,Aquatic predator,2
+Charadrius mongolus,18,4,128.8,64,,Wetland,Aquatic predator,3
+Larus michahellis,67.6,8.6,422.8,1111.9,,Coastal,Aquatic predator,2
+Larus michahellis,67.6,8.6,422.8,1111.9,,Coastal,Aquatic predator,2
+Larus michahellis,67.6,8.6,422.8,1111.9,,Coastal,Aquatic predator,2
+Larus michahellis,67.6,8.6,422.8,1111.9,,Coastal,Aquatic predator,2
+Larus michahellis,67.6,8.6,422.8,1111.9,,Coastal,Aquatic predator,2
+Larus michahellis,67.6,8.6,422.8,1111.9,,Coastal,Aquatic predator,2
+Larus michahellis,67.6,8.6,422.8,1111.9,,Coastal,Aquatic predator,2
+Larus michahellis,67.6,8.6,422.8,1111.9,,Coastal,Aquatic predator,2
+Larus fuscus,62.3,7.9,412.2,762.4,,Coastal,Aquatic predator,2
+Larus fuscus,62.3,7.9,412.2,762.4,,Coastal,Aquatic predator,2
+Larus fuscus,62.3,7.9,412.2,762.4,,Coastal,Aquatic predator,2
+Larus fuscus,62.3,7.9,412.2,762.4,,Coastal,Aquatic predator,2
+Larus fuscus,62.3,7.9,412.2,762.4,,Coastal,Aquatic predator,2
+Larus fuscus,62.3,7.9,412.2,762.4,,Coastal,Aquatic predator,2
+Larus fuscus,62.3,7.9,412.2,762.4,,Coastal,Aquatic predator,2
+Larus fuscus,62.3,7.9,412.2,762.4,,Coastal,Aquatic predator,2
+Larus fuscus,62.3,7.9,412.2,762.4,,Coastal,Aquatic predator,2
+Larus fuscus,62.3,7.9,412.2,762.4,,Coastal,Aquatic predator,2
+Larus fuscus,62.3,7.9,412.2,762.4,,Coastal,Aquatic predator,2
+Larus fuscus,62.3,7.9,412.2,762.4,,Coastal,Aquatic predator,2
+Bulweria bulwerii,21.6,4.8,203.2,99,0.5,Marine,Aquatic predator,2
+Puffinus lherminieri,31,4.9,185.3,192.8,0.5,Marine,Aquatic predator,2
+Calonectris edwardsii,42.8,8.2,309,535,1.1,Marine,Aquatic predator,3
+Phaethon aethereus,66.4,8.8,309.2,750,1.5,Marine,Aquatic predator,3
+Sula leucogaster,100.9,20.5,388.6,1288.8,1.5,Marine,Aquatic predator,2
+Bulweria bulwerii,21.6,4.8,203.2,99,,Marine,Aquatic predator,2
+Calonectris edwardsii,42.8,8.2,309,535,,Marine,Aquatic predator,3
+Phaethon aethereus,66.4,8.8,309.2,750,,Marine,Aquatic predator,3
+Puffinus lherminieri,31,4.9,185.3,192.8,,Marine,Aquatic predator,2
+Sula leucogaster,100.9,20.5,388.6,1288.8,,Marine,Aquatic predator,2
+Bulweria bulwerii,21.6,4.8,203.2,99,,Marine,Aquatic predator,2
+Calonectris edwardsii,42.8,8.2,309,535,,Marine,Aquatic predator,3
+Phaethon aethereus,66.4,8.8,309.2,750,,Marine,Aquatic predator,3
+Puffinus lherminieri,31,4.9,185.3,192.8,,Marine,Aquatic predator,2
+Sula leucogaster,100.9,20.5,388.6,1288.8,,Marine,Aquatic predator,2
+Bulweria bulwerii,21.6,4.8,203.2,99,,Marine,Aquatic predator,2
+Calonectris edwardsii,42.8,8.2,309,535,,Marine,Aquatic predator,3
+Phaethon aethereus,66.4,8.8,309.2,750,,Marine,Aquatic predator,3
+Puffinus lherminieri,31,4.9,185.3,192.8,,Marine,Aquatic predator,2
+Sula leucogaster,100.9,20.5,388.6,1288.8,,Marine,Aquatic predator,2
+Bulweria bulwerii,21.6,4.8,203.2,99,,Marine,Aquatic predator,2
+Calonectris edwardsii,42.8,8.2,309,535,,Marine,Aquatic predator,3
+Phaethon aethereus,66.4,8.8,309.2,750,,Marine,Aquatic predator,3
+Puffinus lherminieri,31,4.9,185.3,192.8,,Marine,Aquatic predator,2
+Sula leucogaster,100.9,20.5,388.6,1288.8,,Marine,Aquatic predator,2
+Bulweria bulwerii,21.6,4.8,203.2,99,,Marine,Aquatic predator,2
+Calonectris edwardsii,42.8,8.2,309,535,,Marine,Aquatic predator,3
+Phaethon aethereus,66.4,8.8,309.2,750,,Marine,Aquatic predator,3
+Puffinus lherminieri,31,4.9,185.3,192.8,,Marine,Aquatic predator,2
+Sula leucogaster,100.9,20.5,388.6,1288.8,,Marine,Aquatic predator,2
+Bulweria bulwerii,21.6,4.8,203.2,99,,Marine,Aquatic predator,2
+Calonectris edwardsii,42.8,8.2,309,535,,Marine,Aquatic predator,3
+Phaethon aethereus,66.4,8.8,309.2,750,,Marine,Aquatic predator,3
+Puffinus lherminieri,31,4.9,185.3,192.8,,Marine,Aquatic predator,2
+Sula leucogaster,100.9,20.5,388.6,1288.8,,Marine,Aquatic predator,2
+Bulweria bulwerii,21.6,4.8,203.2,99,,Marine,Aquatic predator,2
+Calonectris edwardsii,42.8,8.2,309,535,,Marine,Aquatic predator,3
+Phaethon aethereus,66.4,8.8,309.2,750,,Marine,Aquatic predator,3
+Puffinus lherminieri,31,4.9,185.3,192.8,,Marine,Aquatic predator,2
+Sula leucogaster,100.9,20.5,388.6,1288.8,,Marine,Aquatic predator,2
+Bulweria bulwerii,21.6,4.8,203.2,99,,Marine,Aquatic predator,2
+Calonectris edwardsii,42.8,8.2,309,535,,Marine,Aquatic predator,3
+Phaethon aethereus,66.4,8.8,309.2,750,,Marine,Aquatic predator,3
+Puffinus lherminieri,31,4.9,185.3,192.8,,Marine,Aquatic predator,2
+Sula leucogaster,100.9,20.5,388.6,1288.8,,Marine,Aquatic predator,2
+Bulweria bulwerii,21.6,4.8,203.2,99,,Marine,Aquatic predator,2
+Calonectris edwardsii,42.8,8.2,309,535,,Marine,Aquatic predator,3
+Phaethon aethereus,66.4,8.8,309.2,750,,Marine,Aquatic predator,3
+Puffinus lherminieri,31,4.9,185.3,192.8,,Marine,Aquatic predator,2
+Sula leucogaster,100.9,20.5,388.6,1288.8,,Marine,Aquatic predator,2
+Bulweria bulwerii,21.6,4.8,203.2,99,,Marine,Aquatic predator,2
+Calonectris edwardsii,42.8,8.2,309,535,,Marine,Aquatic predator,3
+Phaethon aethereus,66.4,8.8,309.2,750,,Marine,Aquatic predator,3
+Puffinus lherminieri,31,4.9,185.3,192.8,,Marine,Aquatic predator,2
+Sula leucogaster,100.9,20.5,388.6,1288.8,,Marine,Aquatic predator,2
+Melanitta fusca,49.9,26.4,259.2,1800.2,0,Wetland,Aquatic predator,3
+Melanitta nigra,48.7,20.8,221.1,1050,0,Wetland,Aquatic predator,3
+Clangula hyemalis,32.1,16,215.6,871,0.144,Wetland,Aquatic predator,3
+Gavia stellata,63.1,7.5,275.4,1486,0.045,Wetland,Aquatic predator,3
+Podiceps cristatus,57.5,6.6,183.6,731,0,Wetland,Aquatic predator,1
+Uria aalge,56.8,8.1,196.3,991.9,0.03,Marine,Aquatic predator,3
+Thinornis cucullatus,21,3.3,138,100,,Coastal,Aquatic predator,2
+Haematopus longirostris,88.8,8.2,275.4,613.9,,Coastal,Aquatic predator,1
+Mergus serrator,65,8.2,233.6,1015.2,0.33,Wetland,Aquatic predator,3
+Podiceps cristatus,57.5,6.6,183.6,731,0,Wetland,Aquatic predator,1
+Gavia stellata,63.1,7.5,275.4,1486,0,Wetland,Aquatic predator,3
+Gavia arctica,71,8.5,285.8,2251.1,0,Wetland,Aquatic predator,3
+Gavia pacifica,71.9,8.3,291.2,2251.1,0.35,Wetland,Aquatic predator,3
+Hydrobates monorhis,16.5,3,152.6,39.8,18.73,Marine,Aquatic predator,3
+Calonectris leucomelas,48.9,9.7,319.2,580,0,Marine,Aquatic predator,3
+Phalacrocorax carbo,82.7,13.2,340.2,2529,0,Wetland,Aquatic predator,2
+Larus crassirostris,58.7,6.5,364.2,561,0.13,Coastal,Aquatic predator,2
+Larus argentatus,74,8.9,430,1091,0,Coastal,Aquatic predator,2
+Synthliboramphus antiquus,23.6,5,135.5,217.7,0.02,Marine,Aquatic predator,3
+Calonectris borealis,55,11.3,347,535,8.13,Marine,Aquatic predator,3
+Hydrobates castro,15.6,2.7,150.4,46.1,5.6,Marine,Aquatic predator,3
+Larus michahellis,67.6,8.6,422.8,1111.9,1.83,Coastal,Aquatic predator,2
+Larus ridibundus,43.4,4,291.2,284,1,Wetland,Aquatic predator,2
+Bubulcus ibis,63.3,8.6,244.4,366,3,Human modified,Omnivore,2
+Tyto alba,32,8.5,280.2,403.3,,Human modified,Vertivore,1
+Tyto alba,32,8.5,280.2,403.3,,Human modified,Vertivore,1
+Tyto alba,32,8.5,280.2,403.3,,Human modified,Vertivore,1
+Larus michahellis,67.6,8.6,422.8,1111.9,0.2667,Coastal,Aquatic predator,2
+Larus fuscus,62.3,7.9,412.2,762.4,0.4677,Coastal,Aquatic predator,2
+Ciconia ciconia,189.1,23.5,565.6,3445.8,1.2222,Grassland,Omnivore,3
+Hydrobates pelagicus,13.7,2.3,119,25.2,1.86,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,5.9,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,18.7,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,11.6,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,1.9,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,22,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,,Marine,Aquatic predator,3
+Fulmarus glacialis,41.3,11.9,321.1,611.9,,Marine,Aquatic predator,3
+Spheniscus magellanicus,60.2,10.2,109.6,4105.1,,Marine,Aquatic predator,2
+Spheniscus magellanicus,60.2,10.2,109.6,4105.1,,Marine,Aquatic predator,2
+Spheniscus magellanicus,60.2,10.2,109.6,4105.1,,Marine,Aquatic predator,2
+Alopochen aegyptiaca,51.6,20.8,356,1873,,Wetland,Omnivore,2
+Anas undulata,53.3,18.7,240.6,1008,,Wetland,Herbivore aquatic,2
+Anas erythrorhyncha,43.8,15.9,215,558.8,,Wetland,Herbivore aquatic,2
+Plectropterus gambensis,78.6,30.5,522.6,3869,,Wetland,Omnivore,3
+Dendrocygna viduata,48.1,15.7,214.3,690,,Wetland,Herbivore aquatic,2
+Spatula smithii,63.6,18.9,229.2,591.5,,Wetland,Aquatic predator,2
+Anas capensis,39.6,14.8,193.2,402,,Wetland,Aquatic predator,2
+Ardenna gravis,54.7,8.3,317.8,849,,Marine,Aquatic predator,3
+Ardenna gravis,54.7,8.3,317.8,849,,Marine,Aquatic predator,3
+Ardenna gravis,54.7,8.3,317.8,849,,Marine,Aquatic predator,3
+Ardenna gravis,54.7,8.3,317.8,849,,Marine,Aquatic predator,3
+Ardenna gravis,54.7,8.3,317.8,849,,Marine,Aquatic predator,3
+Ardenna gravis,54.7,8.3,317.8,849,,Marine,Aquatic predator,3
+Ardenna gravis,54.7,8.3,317.8,849,,Marine,Aquatic predator,3
+Ardenna gravis,54.7,8.3,317.8,849,,Marine,Aquatic predator,3
+Ardenna gravis,54.7,8.3,317.8,849,,Marine,Aquatic predator,3
+Ardenna gravis,54.7,8.3,317.8,849,,Marine,Aquatic predator,3
+Ardenna gravis,54.7,8.3,317.8,849,,Marine,Aquatic predator,3
+Ardenna gravis,54.7,8.3,317.8,849,,Marine,Aquatic predator,3
+Ardenna gravis,54.7,8.3,317.8,849,,Marine,Aquatic predator,3
+Ardenna gravis,54.7,8.3,317.8,849,,Marine,Aquatic predator,3
+Ardenna gravis,54.7,8.3,317.8,849,,Marine,Aquatic predator,3
+Ardenna gravis,54.7,8.3,317.8,849,,Marine,Aquatic predator,3
+Ardenna tenuirostris,37.2,6.5,262.2,559,8.23,Marine,Aquatic predator,3
+Ardenna tenuirostris,37.2,6.5,262.2,559,7.11,Marine,Aquatic predator,3
+Larus dominicanus,64.7,8.6,402,952.4,,Marine,Omnivore,1
+Spheniscus magellanicus,60.2,10.2,109.6,4105.1,,Marine,Aquatic predator,2
+Spheniscus humboldti,63.7,9.1,105.2,4366.4,,Marine,Aquatic predator,2
+Strix varia,38.8,11.2,341.2,711.5,,Forest,Vertivore,1
+Strix varia,38.8,11.2,341.2,711.5,,Forest,Vertivore,1
+Strix varia,38.8,11.2,341.2,711.5,,Forest,Vertivore,1
+Haliaeetus?eucocephalus,76,24,601.8,4700.6,,Wetland,Omnivore,3
+Haliaeetus?eucocephalus,76,24,601.8,4700.6,,Wetland,Omnivore,3
+Tachycineta bicolor,10.8,3.8,115.9,21.2,11.3,Wetland,Invertivore,3
+Tachycineta bicolor,10.8,3.8,115.9,21.2,5.1,Wetland,Invertivore,3
+Tachycineta bicolor,10.8,3.8,115.9,21.2,5.9,Wetland,Invertivore,3
+Tachycineta bicolor,10.8,3.8,115.9,21.2,8.7,Wetland,Invertivore,3
+Larus delawarensis,48.1,6.2,366,516.3,3.7,Coastal,Omnivore,2
+Columba livia,23.2,4.3,219.6,354.2,,Human modified,Granivore,1
+Milvus migrans,40,13,457.4,734.1,0,Woodland,Omnivore,3
+Hirundo rustica,12.4,4.5,115.8,17.9,,Human modified,Invertivore,3
+Ardenna pacifica,40.9,7.9,296.8,388,1.1,Marine,Aquatic predator,3
+Ardenna pacifica,40.9,7.9,296.8,388,1,Marine,Aquatic predator,3
+Ardenna pacifica,40.9,7.9,296.8,388,1.1,Marine,Aquatic predator,3
+Buteo buteo,35.9,12.6,382.9,759.1,,Grassland,Vertivore,2
+Milvus migrans,40,13,457.4,734.1,,Woodland,Omnivore,3
+Accipiter nisus,19.6,8.4,207.4,220.8,,Forest,Vertivore,2
+Accipiter gentilis,33.7,11.6,337.6,866,,Forest,Vertivore,2
+Rallus crepitans,64.7,3.8,148,306,7.2,Wetland,Aquatic predator,2
+Ammospiza maritima,16.3,4.2,60.6,22.2,2.7,Wetland,Invertivore,2
+Alcedo atthis,42.2,5.7,73.3,31.1,,Reverine,Aquatic predator,1
+Buteo buteo,35.9,12.6,382.9,759.1,17,Grassland,Vertivore,2
+Milvus migrans,40,13,457.4,734.1,4,Woodland,Omnivore,3
+Falco tinnunculus,20.8,10.6,241,183.2,21,Shrubland,Vertivore,3
+Hierococcyx sparverioides,30.3,7.8,235,151,11,Woodland,Invertivore,3
+Bubulcus ibis,63.3,8.6,244.4,366,10,Human modified,Omnivore,2
+Tachybaptus ruficollis,23.9,4.4,100,169.4,0,Wetland,Aquatic predator,1
+Calidris alpina,36.9,2.9,115.1,51.9,0,Wetland,Aquatic predator,3
+Actitis hypoleucos,30.1,3.1,109.9,48,0,Wetland,Aquatic predator,3
+Turdus obscurus,22,4.4,119.8,62.6,4,Forest,Invertivore,3
+Turdus hortulorum,23.3,4.9,115.8,66.7,2,Forest,Invertivore,3
+Pica pica,40.8,12.4,194.5,217.5,7,Human modified,Omnivore,1
+Spilopelia chinensis,19.9,3.5,138.8,159,10,Woodland,Granivore,1
+Buteo buteo,35.9,12.6,382.9,759.1,,Grassland,Vertivore,2
+Milvus migrans,40,13,457.4,734.1,,Woodland,Omnivore,3
+Falco tinnunculus,20.8,10.6,241,183.2,,Shrubland,Vertivore,3
+Hierococcyx sparverioides,30.3,7.8,235,151,,Woodland,Invertivore,3
+Bubulcus ibis,63.3,8.6,244.4,366,,Human modified,Omnivore,2
+Tachybaptus ruficollis,23.9,4.4,100,169.4,,Wetland,Aquatic predator,1
+Calidris alpina,36.9,2.9,115.1,51.9,,Wetland,Aquatic predator,3
+Actitis hypoleucos,30.1,3.1,109.9,48,,Wetland,Aquatic predator,3
+Turdus obscurus,22,4.4,119.8,62.6,,Forest,Invertivore,3
+Turdus hortulorum,23.3,4.9,115.8,66.7,,Forest,Invertivore,3
+Pica pica,40.8,12.4,194.5,217.5,,Human modified,Omnivore,1
+Spilopelia chinensis,19.9,3.5,138.8,159,,Woodland,Granivore,1
+Buteo buteo,35.9,12.6,382.9,759.1,,Grassland,Vertivore,2
+Milvus migrans,40,13,457.4,734.1,,Woodland,Omnivore,3
+Falco tinnunculus,20.8,10.6,241,183.2,,Shrubland,Vertivore,3
+Hierococcyx sparverioides,30.3,7.8,235,151,,Woodland,Invertivore,3
+Bubulcus ibis,63.3,8.6,244.4,366,,Human modified,Omnivore,2
+Tachybaptus ruficollis,23.9,4.4,100,169.4,,Wetland,Aquatic predator,1
+Calidris alpina,36.9,2.9,115.1,51.9,,Wetland,Aquatic predator,3
+Actitis hypoleucos,30.1,3.1,109.9,48,,Wetland,Aquatic predator,3
+Turdus obscurus,22,4.4,119.8,62.6,,Forest,Invertivore,3
+Turdus hortulorum,23.3,4.9,115.8,66.7,,Forest,Invertivore,3
+Pica pica,40.8,12.4,194.5,217.5,,Human modified,Omnivore,1
+Spilopelia chinensis,19.9,3.5,138.8,159,,Woodland,Granivore,1
+Pycnonotus sinensis,17.9,4.4,86.7,34.2,273,Human modified,Frugivore,3
+Pycnonotus aurigaster,19.4,4.1,91.8,44.3,399,Shrubland,Omnivore,1
+Lanius schach,21.8,6.8,92.4,51.5,406,Shrubland,Invertivore,2
+Copsychus saularis,23.2,5.4,97.5,36,249,Woodland,Invertivore,1
+Motacilla alba,16.1,3.4,87,23.9,262,Human modified,Invertivore,3
+Parus major,11.3,4,70.9,16.3,150,Woodland,Invertivore,1
+Turdus mandarinus,30.9,5.3,146.6,102.7,288,Forest,Omnivore,1
+Spilopelia chinensis,19.9,3.5,138.8,159,304,Woodland,Granivore,1
+Alcedo atthis,42.2,5.7,73.3,31.1,191,Reverine,Aquatic predator,1
+Numenius phaeopus,92.1,6.6,233,364.6,2,Grassland,Omnivore,3
+Sula sula,79.3,21.5,366.8,1031.1,2,Marine,Aquatic predator,2
+Numenius phaeopus,92.1,6.6,233,364.6,35,Grassland,Omnivore,3
+Sula sula,79.3,21.5,366.8,1031.1,1,Marine,Aquatic predator,2
+Numenius phaeopus,92.1,6.6,233,364.6,10,Grassland,Omnivore,3
