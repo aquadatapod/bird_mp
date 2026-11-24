@@ -4,10 +4,7 @@
 
 ## 📋 Overview
 
-This repository contains data and code for a global meta-analysis investigating the ecological and evolutionary drivers of microplastic accumulation in birds. The study examines how morphological traits (body mass, beak length) and ecological factors (habitat, feeding guild, migration) predict interspecific variation in microplastic burden across 175 individuals representing 94 species.
-
-**Key finding:** Smaller birds in terrestrial habitats carry the highest microplastic loads—a striking departure from the trophic transfer paradigm common in other taxa. A 164g body mass threshold and 31mm beak length cutoff consistently identify high-risk species.
-
+This repository contains data and code for a global meta-analysis investigating the ecological and evolutionary drivers of microplastic accumulation in birds. The study examines how morphological traits (body mass, wing length) and ecological factors (habitat, feeding guild, migration) predict interspecific variation in microplastic burden across 175 individuals representing 101 species.
 
 ## 🔬 Core Analyses
 
@@ -20,8 +17,8 @@ This repository contains data and code for a global meta-analysis investigating 
 
 ## 📊 Key Outputs
 
-- Main text figures (1-5)
-- Extended Data figures (ED1-ED6)
+- Main text figures (1-3)
+- Sensitivity analysis
 - Supplementary tables with full statistical outputs
 - Phylogenetic tree and trait reconstructions
 

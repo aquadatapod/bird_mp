@@ -1,0 +1,102 @@
+Species,n_records,n_studies,Mppersp,Mass,Beak.Length_Culmen,Wing.Length,Feeding_habit,Habitat,Migration,Trophic.Niche,IUCN,Species_type,Continent
+Accipiter cooperii,1,1,8.66,429.7,25.4,241.2,Carnivore,Woodland,3,Vertivore,LC,Landbird,North America
+Actitis hypoleucos,1,1,0,48,30.1,109.9,Carnivore,Wetland,3,Aquatic predator,LC,Waterbird,Asia
+Alcedo atthis,1,1,191,31.1,42.2,73.3,Piscivore,Reverine,1,Aquatic predator,LC,Landbird,Asia
+Ammospiza maritima,1,1,2.7,22.2,16.3,60.6,Omnivore,Wetland,2,Invertivore,LC,Landbird,North America
+Anas acuta,1,1,0.1,944.6,48.1,256.7,Omnivore,Aquatic,3,Herbivore aquatic,LC,Waterbird,North America
+Anas platyrhynchos,3,2,33.90666667,843.4,58.5,263.4,Omnivore,Wetland,2,Herbivore aquatic,LC,Waterbird,Asia
+Anser caerulescens,1,1,0.02,2636.2,61.8,411.8,Herbivore,Grassland,3,Herbivore aquatic,LC,Waterbird,North America
+Ardenna gravis,1,1,8,849,54.7,317.8,Piscivore,Marine,3,Aquatic predator,LC,Seabird,Europe
+Ardenna pacifica,5,2,1.852,388,40.9,296.8,Piscivore,Marine,3,Aquatic predator,LC,Seabird,North America
+Ardenna tenuirostris,2,1,7.67,559,37.2,262.2,Piscivore,Marine,3,Aquatic predator,LC,Seabird,Oceania
+Branta canadensis,1,1,0.05,2811.7,50,422.9,Herbivore,Grassland,3,Herbivore terrestrial,LC,Waterbird,North America
+Bubo virginianus,1,1,18.5,1354.5,44.7,371.2,Carnivore,Forest,1,Vertivore,LC,Landbird,North America
+Bubulcus ibis,2,2,6.5,366,63.3,244.4,Carnivore,Human modified,2,Omnivore,LC,Aquatic bird,Europe
+Bulweria bulwerii,1,1,0.5,99,21.6,203.2,Piscivore,Marine,2,Aquatic predator,LC,Seabird,Africa
+Buteo buteo,1,1,17,759.1,35.9,382.9,Carnivore,Grassland,2,Vertivore,LC,Landbird,Asia
+Buteo jamaicensis,2,2,4.08,1101.2,37.6,402.8,Carnivore,Woodland,3,Vertivore,LC,Landbird,North America
+Buteo lineatus,2,2,19.015,603.7,33.1,319,Carnivore,Woodland,3,Vertivore,LC,Landbird,North America
+Calidris alpina,1,1,0,51.9,36.9,115.1,Carnivore,Wetland,3,Aquatic predator,NT,Aquatic bird,Asia
+Calonectris borealis,1,1,8.13,535,55,347,Piscivore,Marine,3,Aquatic predator,LC,Seabird,Europe
+Calonectris edwardsii,1,1,1.1,535,42.8,309,Piscivore,Marine,3,Aquatic predator,NT,Seabird,Africa
+Calonectris leucomelas,1,1,0,580,48.9,319.2,Piscivore,Marine,3,Aquatic predator,NT,Seabird,Asia
+Cathartes aura,1,1,17.66,1518.2,51.5,508.5,Carnivore,Human modified,2,Scavenger,LC,Landbird,North America
+Catharus guttatus,1,1,35.3,30.1,18.8,89,Omnivore,Forest,3,Invertivore,LC,Landbird,North America
+Ciconia ciconia,1,1,1.2222,3445.8,189.1,565.6,Carnivore,Grassland,3,Omnivore,LC,Aquatic bird,Europe
+Cinclus cinclus,5,1,1,61.5,22.1,88.9,Insectivore,Reverine,1,Aquatic predator,LC,Landbird,Europe
+Clangula hyemalis,1,1,0.144,871,32.1,215.6,Carnivore,Wetland,3,Aquatic predator,VU,Aquatic bird,Europe
+Copsychus saularis,1,1,249,36,23.2,97.5,Insectivore,Woodland,1,Invertivore,LC,Landbird,Asia
+Coragyps atratus,3,2,8.506666667,1881.7,60,410.1,Carnivore,Human modified,2,Scavenger,LC,Landbird,North America
+Corvus splendens,1,1,2.64,292.6,49.7,258.2,Omnivore,Human modified,1,Omnivore,LC,Landbird,Asia
+Falco tinnunculus,1,1,21,183.2,20.8,241,Carnivore,Shrubland,3,Vertivore,LC,Landbird,Asia
+Fratercula arctica,1,1,0.27,593,51,163.6,Piscivore,Marine,3,Aquatic predator,VU,Seabird,Europe
+Fulmarus glacialis,11,6,10.52636364,611.9,41.3,321.1,Piscivore,Marine,3,Aquatic predator,LC,Seabird,North America
+Gallus gallus,21,2,27.64889952,751.7,30.9,218.2,Omnivore,Forest,1,Omnivore,LC,Landbird,Asia
+Gavia adamsii,1,1,0.33,4944.3,104.8,371.4,Piscivore,Wetland,3,Aquatic predator,NT,Aquatic bird,North America
+Gavia arctica,1,1,0,2251.1,71,285.8,Piscivore,Wetland,3,Aquatic predator,LC,Aquatic bird,Asia
+Gavia pacifica,1,1,0.35,2251.1,71.9,291.2,Piscivore,Wetland,3,Aquatic predator,LC,Aquatic bird,Asia
+Gavia stellata,2,2,0.0225,1486,63.1,275.4,Piscivore,Wetland,3,Aquatic predator,LC,Aquatic bird,Europe
+Gracupica nigricollis,1,1,1250,156.9,32.4,158.1,Insectivore,Grassland,1,Invertivore,LC,Landbird,Asia
+Hierococcyx sparverioides,1,1,11,151,30.3,235,Carnivore,Woodland,3,Invertivore,LC,Landbird,Asia
+Hydrobates castro,1,1,5.6,46.1,15.6,150.4,Piscivore,Marine,3,Aquatic predator,LC,Seabird,Europe
+Hydrobates monorhis,3,2,19.41,39.8,16.5,152.6,Piscivore,Marine,3,Aquatic predator,NT,Seabird,Asia
+Hydrobates pelagicus,1,1,1.86,25.2,13.7,119,Piscivore,Marine,3,Aquatic predator,LC,Seabird,Europe
+Junco hyemalis,1,1,13.7,19.5,11.6,75.2,Omnivore,Forest,3,Granivore,LC,Landbird,North America
+Lanius schach,1,1,406,51.5,21.8,92.4,Insectivore,Shrubland,2,Invertivore,LC,Landbird,Asia
+Larus argentatus,2,2,0.07,1091,74,430,Piscivore,Coastal,2,Aquatic predator,LC,Aquatic bird,Europe
+Larus atricilla,1,1,7.6,307.4,44.1,298.4,Carnivore,Marine,2,Aquatic predator,LC,Aquatic bird,North America
+Larus crassirostris,1,1,0.13,561,58.7,364.2,Carnivore,Coastal,2,Aquatic predator,LC,Aquatic bird,Asia
+Larus delawarensis,1,1,3.7,516.3,48.1,366,Carnivore,Coastal,2,Omnivore,LC,Aquatic bird,North America
+Larus fuscus,1,1,0.4677,762.4,62.3,412.2,Carnivore,Coastal,2,Aquatic predator,LC,Aquatic bird,Europe
+Larus michahellis,2,2,1.04835,1111.9,67.6,422.8,Carnivore,Coastal,2,Aquatic predator,LC,Aquatic bird,Europe
+Larus ridibundus,2,2,0.665,284,43.4,291.2,Carnivore,Wetland,2,Aquatic predator,LC,Aquatic bird,Europe
+Leiothlypis peregrina,1,1,19,8.9,10.9,62.5,Omnivore,Forest,3,Invertivore,LC,Landbird,North America
+Mareca americana,1,1,0.06,754.6,44.9,253.2,Herbivore,Wetland,3,Omnivore,LC,Waterbird,North America
+Megascops asio,1,1,9.82,180,22,168.5,Carnivore,Woodland,1,Invertivore,LC,Landbird,North America
+Melanitta deglandi,1,1,0.06,1800.2,46.8,270,Carnivore,Wetland,3,Aquatic predator,LC,Aquatic bird,North America
+Melanitta fusca,1,1,0,1800.2,49.9,259.2,Carnivore,Wetland,3,Aquatic predator,VU,Aquatic bird,Europe
+Melanitta nigra,1,1,0,1050,48.7,221.1,Carnivore,Wetland,3,Aquatic predator,LC,Aquatic bird,Europe
+Mergus serrator,1,1,0.33,1015.2,65,233.6,Piscivore,Wetland,3,Aquatic predator,LC,Aquatic bird,Asia
+Milvus migrans,2,2,2,734.1,40,457.4,Carnivore,Woodland,3,Omnivore,LC,Landbird,Asia
+Morus bassanus,1,1,0.3,2998.7,98.7,485.8,Piscivore,Marine,2,Aquatic predator,LC,Seabird,Europe
+Motacilla alba,1,1,262,23.9,16.1,87,Insectivore,Human modified,3,Invertivore,LC,Landbird,Asia
+Nannopterum auritum,1,1,9.6,1806.5,68.2,311.8,Piscivore,Marine,2,Aquatic predator,LC,Aquatic bird,North America
+Numenius phaeopus,3,1,15.66666667,364.6,92.1,233,Carnivore,Grassland,3,Omnivore,LC,Waterbird,Asia
+Pandion haliaetus,1,1,19.26,1483.2,47,468.4,Piscivore,Marine,3,Aquatic predator,LC,Landbird,North America
+Parus major,1,1,150,16.3,11.3,70.9,Insectivore,Woodland,1,Invertivore,LC,Landbird,Asia
+Pelecanus occidentalis,1,1,29.9,3427.8,319.5,494.6,Piscivore,Marine,1,Aquatic predator,LC,Aquatic bird,North America
+Phaethon aethereus,1,1,1.5,750,66.4,309.2,Piscivore,Marine,3,Aquatic predator,LC,Seabird,Africa
+Phalacrocorax carbo,1,1,0,2529,82.7,340.2,Piscivore,Wetland,2,Aquatic predator,LC,Aquatic bird,Asia
+Phalacrocorax sulcirostris,1,1,320,995,51.9,248.8,Piscivore,Wetland,1,Aquatic predator,LC,Aquatic bird,Asia
+Pica pica,1,1,7,217.5,40.8,194.5,Carnivore,Human modified,1,Omnivore,LC,Landbird,Asia
+Podiceps cristatus,2,2,0,731,57.5,183.6,Carnivore,Wetland,1,Aquatic predator,LC,Aquatic bird,Europe
+Ptychoramphus aleuticus,3,1,5.793333333,184,24,121,Piscivore,Marine,3,Aquatic predator,NT,Seabird,North America
+Puffinus lherminieri,1,1,0.5,192.8,31,185.3,Piscivore,Marine,2,Aquatic predator,LC,Seabird,Africa
+Puffinus mauretanicus,1,1,5,497,45.1,242.2,Piscivore,Marine,2,Aquatic predator,CR,Seabird,Europe
+Puffinus newelli,1,1,1.2,350.8,42.7,241,Piscivore,Marine,2,Aquatic predator,CR,Seabird,North America
+Pycnonotus aurigaster,1,1,399,44.3,19.4,91.8,Insectivore,Shrubland,1,Omnivore,LC,Landbird,Asia
+Pycnonotus sinensis,1,1,273,34.2,17.9,86.7,Insectivore,Human modified,3,Frugivore,LC,Landbird,Asia
+Pygoscelis adeliae,1,1,0.15,4847.7,59.7,94.5,Piscivore,Marine,2,Aquatic predator,LC,Seabird,Antarctica
+Pygoscelis antarcticus,1,1,0.31,4146.1,61.8,100.5,Piscivore,Marine,2,Aquatic predator,LC,Seabird,Antarctica
+Pygoscelis papua,1,1,0.29,5933,64.8,126.1,Piscivore,Marine,2,Aquatic predator,LC,Seabird,Antarctica
+Rallus crepitans,1,1,7.2,306,64.7,148,Carnivore,Wetland,2,Aquatic predator,LC,Waterbird,North America
+Rissa tridactyla,1,1,0.78,416,44.5,301,Carnivore,Marine,2,Aquatic predator,VU,Aquatic bird,Europe
+Seiurus aurocapilla,1,1,10,18.8,15.1,73.2,Insectivore,Forest,3,Invertivore,LC,Landbird,North America
+Somateria mollissima,1,1,0.02,2060.9,62.1,280.2,Carnivore,Marine,2,Aquatic predator,NT,Aquatic bird,North America
+Spilopelia chinensis,2,2,157,159,19.9,138.8,Herbivore,Woodland,1,Granivore,LC,Landbird,Asia
+Strix Varia,1,1,6.14,711.5,38.8,341.2,Carnivore,Forest,1,Vertivore,LC,Landbird,North America
+Sula leucogaster,1,1,1.5,1288.8,100.9,388.6,Piscivore,Marine,2,Aquatic predator,LC,Seabird,Africa
+Sula sula,2,1,1.5,1031.1,79.3,366.8,Piscivore,Marine,2,Aquatic predator,LC,Seabird,Asia
+Synthliboramphus antiquus,1,1,0.02,217.7,23.6,135.5,Piscivore,Marine,3,Aquatic predator,LC,Seabird,Asia
+Tachybaptus ruficollis,1,1,0,169.4,23.9,100,Carnivore,Wetland,1,Aquatic predator,LC,Waterbird,Asia
+Tachycineta bicolor,13,2,6.438461538,21.2,10.8,115.9,Insectivore,Wetland,3,Invertivore,LC,Landbird,North America
+Thalasseus maximus,1,1,9.9,415.3,73.7,363.7,Piscivore,Marine,3,Aquatic predator,LC,Aquatic bird,North America
+Turdus hortulorum,1,1,2,66.7,23.3,115.8,Carnivore,Forest,3,Invertivore,LC,Landbird,Asia
+Turdus mandarinus,1,1,288,102.7,30.9,146.6,Insectivore,Forest,1,Omnivore,LC,Landbird,Asia
+Turdus merula,1,1,40.11,102.7,28.5,128.4,Omnivore,Forest,1,Omnivore,LC,Landbird,Europe
+Turdus obscurus,1,1,4,62.6,22,119.8,Omnivore,Forest,3,Invertivore,LC,Landbird,Asia
+Turdus philomelos,1,1,21.94,67.7,23.1,116,Omnivore,Forest,3,Invertivore,LC,Landbird,Europe
+Tyto alba,1,1,6,403.3,32,280.2,Carnivore,Human modified,1,Vertivore,LC,Landbird,North America
+Uria aalge,2,2,0.09,991.9,56.8,196.3,Piscivore,Marine,3,Aquatic predator,LC,Seabird,Europe
+Uria lomvia,1,1,0.33,964,49.3,206.8,Piscivore,Marine,3,Aquatic predator,LC,Seabird,North America
+Zonotrichia albicollis,1,1,19.3,24.4,13.6,72.8,Omnivore,Woodland,3,Omnivore,LC,Landbird,North America
