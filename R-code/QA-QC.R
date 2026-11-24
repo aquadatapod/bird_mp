@@ -186,3 +186,110 @@ sum(qa_data$Mppersp == 0, na.rm = TRUE)
 sum(extraction$plot$Mppersp == 0, na.rm = TRUE)
 sum(identification$plot$Mppersp == 0, na.rm = TRUE)
 sum(season$plot$Mppersp == 0, na.rm = TRUE)
+
+
+
+################################################################################
+# Overall QA/QC dataset
+cat("Total records:", nrow(df), "\n")
+cat("Total studies:", n_distinct(df$study_id), "\n")
+summary(m_extraction)
+
+anova(m_extraction)
+extract_lmm_result <- function(model){
+  
+  a <- anova(model)
+  
+  data.frame(
+    Predictor = rownames(a),
+    NumDF = a$NumDF,
+    DenDF = a$DenDF,
+    F_value = a$`F value`,
+    p_value = a$`Pr(>F)`
+  )
+}
+
+
+extract_lmm_result(m_extraction)
+extract_lmm_result(m_identification)
+extract_lmm_result(m_season)
+library(performance)
+
+icc(m_extraction)
+icc(m_identification)
+icc(m_season)
+get_ICC <- function(model){
+  
+  vc <- as.data.frame(VarCorr(model))
+  
+  study_var <- vc$vcov[vc$grp=="study_id"]
+  residual_var <- attr(VarCorr(model),"sc")^2
+  
+  ICC <- study_var/(study_var + residual_var)
+  
+  return(ICC)
+  
+}
+
+
+get_ICC(m_extraction)
+get_ICC(m_identification)
+get_ICC(m_season)
+extraction$counts %>%
+  arrange(desc(n_studies))
+extraction$counts %>%
+  filter(n_studies >=2)
+
+
+identification$counts %>%
+  filter(n_studies >=2)
+
+
+season$counts %>%
+  filter(n_studies >=2)
+
+
+library(emmeans)
+
+emm_extract <- emmeans(
+  m_extraction,
+  ~ factor_value
+)
+
+pairs(
+  emm_extract,
+  adjust="BH"
+)
+
+
+
+summary(
+  pairs(
+    emm_extract,
+    adjust="BH"
+  )
+)
+
+
+
+summary(
+  emm_extract,
+  type="response"
+)
+
+
+
+method_summary <- rbind(
+  
+  extract_lmm_result(m_extraction) %>%
+    mutate(Method="Extraction"),
+  
+  extract_lmm_result(m_identification) %>%
+    mutate(Method="Identification"),
+  
+  extract_lmm_result(m_season) %>%
+    mutate(Method="Season")
+  
+)
+
+method_summary
